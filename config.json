@@ -1,42 +1,39 @@
-hi  
 {
     "fortnite": {
-        "email": [],
+        "email": [
+            ""
+        ],
         "owner": [],
-        "platform": "WIN",
-        "outfit": "CID_429_Athena_Commando_F_NeonLines",
-        "outfit_style": "",
-        "backpack": "BID_284_NeonLines",
-        "backpack_style": "",
-        "pickaxe": "Pickaxe_ID_071_StreetRacer",
+        "platform": "PSN",
+        "outfit": "cid_029_athena_commando_f_halloween",
+        "outfit_style": "PINK",
+        "backpack": "bid_105_ghostportal",
+        "backpack_style": "PURPLE",
+        "pickaxe": "pickaxe_id_308_spookyneonmale",
         "pickaxe_style": "",
-        "emote": "EID_ElectroShuffle_V2",
+        "emote": "eid_bollywood",
         "playlist": "Playlist_Tutorial_1",
         "banner": "InfluencerBanner33",
         "banner_color": "defaultcolor22",
-        "avatar_id": "cid_005_athena_commando_m_default",
-        "avatar_color": "#ffffff,#ffffff,#ffffff",
+        "avatar_id": "cid_029_f4600cfcb1810c35c897f5307d19c0f2f9bed3360bd81ee4438fa225eb00ede9",
+        "avatar_color": "DARK_PURPLE",
         "level": 9999,
         "tier": 9999,
         "xpboost": 9999,
         "friendxpboost": 9999,
-        "status": "Battle Royale Lobby - {party_size} / {party_max_size}",
-        "privacy": "private",
+        "status": "Code zfn",
+        "privacy": "public",
         "whisper": true,
         "partychat": true,
         "disablewhisperperfectly": false,
         "disablepartychatperfectly": false,
         "ignorebot": true,
-        "joinmessage": "メッセージ\n改行",
+        "joinmessage": "Welcome To GummyFN Bots Please don't invite bots or claim this is your bot. Join https://discord.gg/KZHq6VU for a bot",
         "randommessage": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            "UseCode zfn in the item shop"
         ],
-        "joinmessageenable": false,
-        "randommessageenable": false,
+        "joinmessageenable": true,
+        "randommessageenable": true,
         "joinemote": true,
         "click_invite": true,
         "disable_voice": false,
@@ -85,15 +82,14 @@ hi
     },
     "discord": {
         "enabled": false,
-        "token": "Discord Botのトークン",
+        "token": "",
         "owner": [
-            123456789
+            669420381316055041
         ],
         "channels": [
-            "{name}-command-channel",
-            "bot-command-channel"
+            "{name}"
         ],
-        "status": "ステータス",
+        "status": "",
         "status_type": "playing",
         "discord": true,
         "disablediscordperfectly": false,
@@ -102,14 +98,14 @@ hi
         "blacklist-ignorecommand": true,
         "whitelist": [],
         "whitelist-ignorelock": true,
-        "whitelist-ownercommand": false,
+        "whitelist-ownercommand": true,
         "whitelist-ignoreng": true
     },
     "web": {
         "enabled": true,
         "ip": "{ip}",
         "port": 8080,
-        "password": "",
+        "password": "pass",
         "login_required": true,
         "web": true,
         "log": false
