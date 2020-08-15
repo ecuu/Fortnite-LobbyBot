@@ -25,7 +25,13 @@
         "toy_",
         "setstyle",
         "addstyle",
-        "item-search"
+        "item-search",
+        "me",
+        "prev",
+        "eval",
+        "exec",
+        "restart",
+        "addwhitelist_discord"
     ],
     "true": [
         "true",
@@ -38,372 +44,372 @@
         "decline"
     ],
     "me": [
-        "me"
+        "!me"
     ],
     "prev": [
-        "prev"
+        "!prev"
     ],
     "eval": [
-        "eval"
+        "!eval"
     ],
     "exec": [
-        "exec"
+        "!exec"
     ],
     "restart": [
-        "restart"
+        "!restart"
     ],
     "relogin": [
-        "relogin"
+        "!relogin"
     ],
     "reload": [
-        "reload"
+        "!reload"
     ],
     "addblacklist": [
-        "addblacklist"
+        "!addblacklist"
     ],
     "removeblacklist": [
-        "removeblacklist"
+        "!removeblacklist"
     ],
     "addwhitelist": [
-        "addwhitelist"
+        "!addwhitelist"
     ],
     "removewhitelist": [
-        "removewhitelist"
+        "!removewhitelist"
     ],
     "addblacklist_discord": [
-        "addblacklist2"
+        "!addblacklist2"
     ],
     "removeblacklist_discord": [
-        "removeblacklist2"
+        "!removeblacklist2"
     ],
     "addwhitelist_discord": [
-        "addwhitelist2"
+        "!addwhitelist2"
     ],
     "removewhitelist_discord": [
-        "removewhitelist2"
+        "!removewhitelist2"
     ],
     "addinvitelist": [
-        "addinvitelist"
+        "!addinvitelist"
     ],
     "removeinvitelist": [
-        "removeinvitelist"
+        "!removeinvitelist"
     ],
     "get": [
-        "get"
+        "!get"
     ],
     "friendcount": [
-        "friendcount"
+        "?friends"
     ],
     "pendingcount": [
-        "pendingcount"
+        "!pendingcount"
     ],
     "blockcount": [
-        "blockcount"
+        "!blockcount"
     ],
     "friendlist": [
-        "friendlist"
+        "!friendlist"
     ],
     "pendinglist": [
-        "pendinglist"
+        "!pendinglist"
     ],
     "blocklist": [
-        "blocklist"
+        "!blocklist"
     ],
     "outfitmimic": [
-        "skinmimic"
+        "!skinmimic"
     ],
     "backpackmimic": [
-        "bagmimic"
+        "!bagmimic"
     ],
     "pickaxemimic": [
-        "pickmimic"
+        "!pickmimic"
     ],
     "emotemimic": [
-        "emotemimic"
+        "!emotemimic"
     ],
     "whisper": [
-        "whisper"
+        "!whisper"
     ],
     "partychat": [
-        "partychat"
+        "!partychat"
     ],
     "discord": [
-        "discord"
+        "!discord"
     ],
     "web": [
-        "web"
+        "!web"
     ],
     "disablewhisperperfectly": [
-        "whisperperfect"
+        "!whisperperfect"
     ],
     "disablepartychatperfectly": [
-        "partychatperfect"
+        "!partychatperfect"
     ],
     "disablediscordperfectly": [
-        "discordperfect"
+        "!discordperfect"
     ],
     "acceptinvite": [
-        "acceptinvite"
+        "!acceptinvite"
     ],
     "acceptfriend": [
-        "acceptfriend"
+        "!acceptfriend"
     ],
     "joinmessageenable": [
-        "joinmessage"
+        ""
     ],
     "randommessageenable": [
-        "randommessage"
+        ""
     ],
     "wait": [
-        "wait"
+        "!wait"
     ],
     "join": [
-        "join"
+        "!join"
     ],
     "joinid": [
-        "joinid"
+        "!joinid"
     ],
     "leave": [
-        "leave"
+        "!leave"
     ],
     "invite": [
-        "invite"
+        "!invite"
     ],
     "inviteall": [
-        "inviteall"
+        "!inviteall"
     ],
     "message": [
-        "message"
+        "!message"
     ],
     "partymessage": [
-        "pmessage"
+        "!pmessage"
     ],
     "sendall": [
-        "sendall"
+        ""
     ],
     "status": [
-        "status"
+        ""
     ],
     "avatar": [
-        "avatar"
+        ""
     ],
     "banner": [
-        "banner"
+        "!banner"
     ],
     "level": [
-        "level"
+        "!level"
     ],
     "bp": [
-        "bp"
+        "!bp"
     ],
     "privacy": [
-        "privacy"
+        "!privacy"
     ],
     "privacy_public": [
-        "public"
+        "!public"
     ],
     "privacy_friends_allow_friends_of_friends": [
-        "friends_allow_friends_of_friends"
+        "!friends_allow_friends_of_friends"
     ],
     "privacy_friends": [
-        "friends"
+        "!friends"
     ],
     "privacy_private_allow_friends_of_friends": [
-        "private_allow_friends_of_friends"
+        "!private_allow_friends_of_friends"
     ],
     "privacy_private": [
-        "private"
+        "!private"
     ],
     "getuser": [
-        "getuser"
+        "!getuser"
     ],
     "getfriend": [
-        "getfriend"
+        "!getfriend"
     ],
     "getpending": [
-        "getpending"
+        "!getpending"
     ],
     "getblock": [
-        "getblock"
+        "!getblock"
     ],
     "info": [
-        "info"
+        "!info"
     ],
     "info_party": [
-        "party"
+        "!party"
     ],
     "pending": [
-        "pending"
+        "!pending"
     ],
     "removepending": [
-        "removepending"
+        "!removepending"
     ],
     "addfriend": [
-        "add"
+        "!add"
     ],
     "removefriend": [
-        "remove"
+        "!remove"
     ],
     "removeallfriend": [
-        "removeallfriend"
+        "!removeallfriend"
     ],
     "remove_offline_for": [
-        "remove_offline_for"
+        "!remove_offline_for"
     ],
     "acceptpending": [
-        "accept"
+        "!accept"
     ],
     "declinepending": [
-        "decline"
+        "!decline"
     ],
     "blockfriend": [
-        "block"
+        "!block"
     ],
     "unblockfriend": [
-        "unblock"
+        "!unblock"
     ],
     "chatban": [
-        "ban"
+        "!ban"
     ],
     "voice": [
-        "voice"
+        "!voice"
     ],
     "promote": [
-        "promote"
+        "!promote"
     ],
     "kick": [
-        "kick"
+        "!kick"
     ],
     "hide": [
-        "hide"
+        "!hide"
     ],
     "show": [
-        "show"
+        "!show"
     ],
     "ready": [
-        "ready"
+        "!ready"
     ],
     "unready": [
-        "unready"
+        "!unready"
     ],
     "sitout": [
-        "sitout"
+        "!sitout"
     ],
     "match": [
-        "match"
+        "!match"
     ],
     "unmatch": [
-        "unmatch"
+        "!unmatch"
     ],
     "swap": [
-        "swap"
+        "!swap"
     ],
     "outfitlock": [
-        "skinlock"
+        "!skinlock"
     ],
     "backpacklock": [
-        "baglock"
+        "!baglock"
     ],
     "pickaxelock": [
-        "picklock"
+        "!picklock"
     ],
     "emotelock": [
-        "emotelock"
+        "!emotelock"
     ],
     "stop": [
-        "stop"
+        "!stop"
     ],
     "addeditems": [
-        "addeditems"
+        "!addeditems"
     ],
     "shopitems": [
-        "shopitems"
+        "!shopitems"
     ],
     "alloutfit": [
-        "allskin"
+        "!allskin"
     ],
     "allbackpack": [
-        "allbag"
+        "!allbag"
     ],
     "allpet": [
-        "allpet"
+        "!allpet"
     ],
     "allpickaxe": [
-        "allpick"
+        "!allpick"
     ],
     "allemote": [
-        "allemote"
+        "!allemote"
     ],
     "allemoji": [
-        "allemoji"
+        "!allemoji"
     ],
     "alltoy": [
-        "alltoy"
+        "!alltoy"
     ],
     "cid": [
-        "cid"
+        "!cid"
     ],
     "bid": [
-        "bid"
+        "!bid"
     ],
     "petcarrier": [
-        "petcarrier"
+        "!petcarrier"
     ],
     "pickaxe_id": [
-        "pid"
+        "!pid"
     ],
     "eid": [
-        "eid"
+        "!eid"
     ],
     "emoji_id": [
-        "emoji_id"
+        "!emoji_id"
     ],
     "toy_id": [
-        "toy_id"
+        "!toy_id"
     ],
     "id": [
-        "id"
+        "!id"
     ],
     "outfit": [
-        "skin"
+        "!skin"
     ],
     "backpack": [
-        "bag"
+        "!backpack"
     ],
     "pet": [
-        "pet"
+        "!pet"
     ],
     "pickaxe": [
-        "pickaxe"
+        "!pickaxe"
     ],
     "emote": [
-        "emote"
+        "!emote"
     ],
     "emoji": [
-        "emoji"
+        "!emoji"
     ],
     "toy": [
-        "toy"
+        "!toy"
     ],
     "item": [
-        "item"
+        "!item"
     ],
     "set": [
-        "set"
+        "!set"
     ],
     "setvariant": [
-        "variant"
+        "!variant"
     ],
     "addvariant": [
-        "addvariant"
+        "!addvariant"
     ],
     "setstyle": [
-        "style"
+        "!style"
     ],
     "addstyle": [
-        "addstyle"
+        "!addstyle"
     ],
     "setenlightenment": [
-        "enlight"
+        "!enlight"
     ]
 }
